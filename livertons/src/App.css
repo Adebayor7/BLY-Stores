@@ -1,0 +1,42 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'roboto', sans-serif;
+}
+
+/*  Navbar */
+.navbar-nav a{
+  font-size: 18px;
+}
+
+.card-img{
+  height: 550px;
+}
+
+.card-img-overlay{
+  display: flex;
+  margin-top: 70px;
+}
+
+.roll{
+  justify-content: center;
+}
+.display {
+  font-weight: bolder;
+  text-align: center;
+}
+
+.buttons-1 {
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  height: 100px;
+  text-align: center;
+}
+
+.card-img-top{
+  height: 250px;
+}
